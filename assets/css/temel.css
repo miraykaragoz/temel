@@ -1,0 +1,26 @@
+/* global seçici */
+p{
+color: blue;
+}
+p{
+color: blueviolet;
+}
+h1{
+color: green;
+}
+p strong{
+color: brown;
+}
+strong{
+color: darkorange;
+}
+.altıCizgili{
+text-decoration: underline;
+}
+.hata{
+color: white;
+background-color: red;
+}
+.hata strong{
+color: blue;
+}
